@@ -18,7 +18,7 @@ books = [
 
             {'id': 2, 
             'title': 'Dhalgren', 
-            'author': 'Samuel R. Delany', ñ
+            'author': 'Samuel R. Delany',
             'first_sentence': 'to wound the autumnal city.', 
             'published': '1975'} 
         ]
